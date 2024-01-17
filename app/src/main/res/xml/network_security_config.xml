@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <!-- Puteți specifica aici ancorele de încredere, dacă este cazul -->
+    </base-config>
+    <!-- Adăugați configurații suplimentare, dacă este necesar -->
+</network-security-config>
